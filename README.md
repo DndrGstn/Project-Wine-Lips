@@ -120,13 +120,6 @@ CSS: Validated successfully
 <img width="1920" height="1032" alt="css valid 3" src="https://github.com/user-attachments/assets/95ab781d-f0b5-4a98-8e80-09bd973b808d" />
 
 
-### Manual Testing user stories or/and features
-Test all your user stories, you an create table 
-User Story |  Test | Pass
---- | --- | :---:
-paste here you user story | what is visible to the user and what action they should perform | &check;
-- and attach screenshot
-
 ## Bugs
 Navbar resizing: Fixed by standardizing dimensions across pages.
 
