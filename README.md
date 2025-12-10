@@ -48,16 +48,19 @@ CSS
 Bootstrap
 Github
 chatGPT
-openAi
 youtube
 ## Testing
 Important part of your README!!!
 ### Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+<img width="1003" height="931" alt="Screenshot 2025-12-10 005911" src="https://github.com/user-attachments/assets/b6b62550-aab2-4c20-9016-33d5ffe8f4dc" />
 ### Browser Compatibility
-Check compatability with different browsers
+works on
+Microsoft edge
+Firefox
+Google Chrome
+Safari Mobile
 ### Responsiveness
-Screenshots of the responsivness, pick few devices (from 320px top 1200px)
+<img width="1247" height="772" alt="website" src="https://github.com/user-attachments/assets/495eb11b-91e8-4656-918b-482262a05552" />
 ### Code Validation
 HTML
 <img width="1920" height="1032" alt="html valid 1" src="https://github.com/user-attachments/assets/26cc1800-7bb4-491f-9f57-e6c115715004" />
@@ -69,7 +72,6 @@ CSS
 <img width="1920" height="1032" alt="css valid 3" src="https://github.com/user-attachments/assets/95ab781d-f0b5-4a98-8e80-09bd973b808d" />
 
 
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
@@ -78,22 +80,29 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-navbar bug: it changes size depending on witch page you are on
-navbar bug: the items spacing switch sometimes when pressed 
+navbar bug: it changes size depending on witch page you are on. 
+Fix i copy and pasted all the dimentions from one page to the others so everyting matched
+
+navbar bug: the items spacing switch sometimes when pressed. 
+Fix i accedentaly had a space in one of the navbars in my HTML code
 
 ## Deployment
-
-#### Creating Repository on GitHub
-- First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
-- Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
-- Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
-#### Deloying on Github
-The site was deployed to Github Pages using the following method:
-- Go to the Github repository.
-- Navigate to the 'settings' tab.
-- Using the 'select branch' dropdown menu, choose 'main'.
-- Click 'save'.
+ the website is hosted by github
 
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
-  - Code & Text Content
+ i used a youtubetutorial for my navbar 
+ https://www.youtube.com/watch?v=f3uCSh6LIY0&t=314s
+
+ backgroundpicture from this site 
+ https://stomprecords.com/bands/wine-lips/
+
+ used a logo from one of wine lips musicvideo 
+ https://www.youtube.com/watch?v=ZPT11C8iU-w
+ i screenshot it and then made it transparent in photoshop
+
+ i also used Code institutes learningplatform to do the positioning (and everyting else)
+
+ i also had som help from all our good friend chatGPT
+ 
+
+ 
