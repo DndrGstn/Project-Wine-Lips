@@ -32,10 +32,12 @@ Attach wireframes in this section
 ### Typography
 i use Arial. its very clean and easaly read 
 ### Colour Scheme
-Screenshoot of the colour scheme for your project
+i wanted to use vibrant colours to match the estetic of the band
+
+<img width="1868" height="326" alt="colour scheme" src="https://github.com/user-attachments/assets/9955d3ad-dc37-4048-94b4-a99f32e7fb44" />
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
+The Wine Lips website features a top navigation bar with links to Home, About Us, Merch, and Tour. The Home page introduces the band, while About Us provides background information. The Merch page links externally to Bandcamp for purchasing albums and merchandise. The Tour page lists upcoming events and includes a sign-up form for visitors to submit their details for updates or newsletters. The site uses a simple, static layout with clear navigation, functional links, and a clean, responsive design, making it easy for users to browse and access information.
 ### Navigation
 The navigation is simple and intuitive. Each section of the site is clearly labeled, and I can move between pages without confusion. All it takes is pressing the button for the page you want, making the site easy to explore even for first-time visitors.
 ### Footer
