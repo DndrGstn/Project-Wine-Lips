@@ -61,7 +61,6 @@ Responsive Design: Works across different devices and screen sizes.
 
 Footer: Contains copyright and navigation links.
 
-### Footer
 ### Other features
 I implemented a signup form that allows visitors to subscribe for updates from the band. By joining the mailing list, users can receive information about new tours, album releases, and other important announcements. This feature helps keep fans engaged and ensures they never miss out on upcoming events or new music.
 ## Technologies Used
@@ -133,6 +132,18 @@ Navbar resizing: Fixed by standardizing dimensions across pages.
 
 Navbar item spacing: Fixed accidental extra space in HTML.
 
+## Uses Stories
+User Story 1 — New Visitor
+
+As a first-time visitor,
+I want to quickly understand who Wine Lips are and what they do,
+so that I can decide whether to explore their music, merch, and tour dates.
+
+User Story 2 — Returning Fan
+
+As a returning fan,
+I want fast access to the latest tour information and merch,
+so that I can stay updated on upcoming shows and support the band.
 
 ## Deployment
 
@@ -143,6 +154,10 @@ Navbar tutorial:
  https://www.youtube.com/watch?v=f3uCSh6LIY0&t=314s
 
 Background image: 
+Stomp Records
+https://stomprecords.com/bands/wine-lips/
+
+About Us Section:
 Stomp Records
 https://stomprecords.com/bands/wine-lips/
 
